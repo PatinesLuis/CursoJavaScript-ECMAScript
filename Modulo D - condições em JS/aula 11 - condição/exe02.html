@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pais</title>
+</head>
+<body>  
+        
+        <input type="text" id="pais"> Informe seu pais
+
+        <input type="button" value="Verificar" onclick="visualizar()">
+
+        <div id="resul">
+
+        </div>
+
+    <script>
+
+        function visualizar(){
+
+            var pais = document.getElementById('pais')
+            var res = document.getElementById('resul')
+
+            var paistxt = String(pais.value)
+
+            if(paistxt == "Brasil"){
+                res.innerHTML = "Brasillllllllllllllllllllll"
+            }else{
+                res.innerHTML = "boludooooooooooooooooo"
+            }
+
+        }
+
+           
+    </script>
+
+</body>
+</html>
