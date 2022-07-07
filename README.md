@@ -16,15 +16,15 @@
  dificuldades:
  - Array list(me aprofundar em manipular arrays(indexOF, length)
  - arrumar a validação de numero repetido
- - No ultimo exercicio falta resolver o problema da soma dos valores( está agrupando os array em vez da soma)
+ - No ultimo exercicio falta resolver o problema da soma dos valores( está agrupando os array em vez da soma);
 
  
 daqui pra frente...
 
-functions
-objetos
-modularização
-regEx(expressão regulares)
-JSON
-framework AJAX
-NODEJS
+- functions
+- objetos
+- modularização
+- regEx(expressão regulares)
+- JSON
+- framework AJAX
+- NODEJS
